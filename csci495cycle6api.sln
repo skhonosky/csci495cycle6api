@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csci495cycle6api", "csci495cycle6api.csproj", "{36C5E2AE-376F-4D95-B87A-3362E3FBD0E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36C5E2AE-376F-4D95-B87A-3362E3FBD0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C5E2AE-376F-4D95-B87A-3362E3FBD0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C5E2AE-376F-4D95-B87A-3362E3FBD0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C5E2AE-376F-4D95-B87A-3362E3FBD0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC6F3000-DA91-4F8F-98D6-7E9D370BAAD5}
+	EndGlobalSection
+EndGlobal
