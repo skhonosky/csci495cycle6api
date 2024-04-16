@@ -14,7 +14,7 @@ namespace BreedApi.Repository {
         private MySqlConnection _connection;
 
         public BreedRepository() {
-            string connectionString="server=localhost;user=csci495user;password=csci495pass;database=Breeds";
+            string connectionString="server=localhost;user=csci495user;password=csci495pass;database=csci495cycle6api";
             _connection = new MySqlConnection(connectionString);
             _connection.Open();
             
